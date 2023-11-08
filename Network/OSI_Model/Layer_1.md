@@ -48,7 +48,7 @@ Data are sent in **bits** using
 
 [Learn more](https://www.geeksforgeeks.org/types-of-network-topology/)
 
-## Cable types:
+## Cable types
 
 ### UTP - Unshielded Twisted Pair
 
