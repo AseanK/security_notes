@@ -1,58 +1,59 @@
 ## Layer 1 - Physical Layer
-
-Tansport data using electrical, mechanical or procedural interfaces
-
-Maintains the data rate
-
+Transport data using electrical, mechanical, or procedural interfaces\
+Maintains the data rate\
 Data are sent in bits using
-
 - Electrical impulse
 - Light
 - Radio waves
 
 ### Topologies
-
 - Point-to-Point Topology
   - Simplest communication between two nodes
+  
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20201224191428/UntitledDiagram.png"/>
+    
 - Mesh Topology
-  - Each and every device have a dedicated point-to-point connection with each and every other device in the network
+  - Each and every device has a dedicated point-to-point connection with each and every other device in the network
+
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/1-75.png"/>
+    
 - Star Topology
   - Devices have a dedicated point-to-point connection with a central controller or hub
+
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/2-49.png"/>
+    
 - Bus Topology
   - Multiple devices are connected through a single cable
+
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/3-55.png"/>
+    
 - Ring Topology
   - Each device is connected with repeaters in a circle
+
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/4-32.png"/>
+    
 - Tree Topology
-  - Variation of the Star topology, has hierarchical flow of data
+  - Variation of the Star topology, has a hierarchical flow of data
+
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200614134830/tree-topology2.png"/>
 
 [Learn more](https://www.geeksforgeeks.org/types-of-network-topology/)
 
 ### Cable types:
-
 <b>UTP</b> - Unshielded Twisted Pair
-
 - Commonly used to connect PCs or switches
 - <b>RJ-45</b> connector type
 - Maximum length of 100 meters
 
 <b>Straight-Through</b>
-
 - Used to connect end devices such as PCs and routers to switches
   <img src="https://www.computercablestore.com/themes/ComputerCableStore/content/images/Topics/StraightThrough1.jpg"/>
 
 <b>Crossover</b>
-
 - Used to connect devices directly, most often used to connect two of the same type of devices
   <img src="https://www.computercablestore.com/themes/ComputerCableStore/content/images/Topics/Crossover1.jpg"/>
 
 <b>Fiber-optic Cables</b>
-
 - Carries light as a signal
 - Faster than wire cables
 - Supports longer distance and higher bandwidth
