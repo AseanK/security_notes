@@ -1,9 +1,15 @@
-| Layer | Name                     |
-| ----- | ------------------------ |
-| 1     | Physical                 |
-| 2     | Data-link Mac-Address    |
-| 3     | Network IP-Address       |
-| 4     | Transport TCP/UDP, Ports |
-| 5     | Session                  |
-| 6     | Presentation             |
-| 7     | Application              |
+# OSI Model
+
+Open Systems Interconnection Model\
+Describes seven layers that computer system use to communicate over a network\
+Each layer in the OSI model has well-defined functions, and the methods of each layer communicate and interact with those of the layers immediately above and below as appropriate
+
+| Layer |       Name       |                              Example |
+| :---- | :--------------: | -----------------------------------: |
+| 7     | **Application**  |                             End User |
+| 6     | **Presentation** |    Data Conversion - Encrypt/Decrypt |
+| 5     |   **Session**    |                               - Port |
+| 4     |  **Transport**   |                            - TCP/UDP |
+| 3     |   **Network**    |         Router - Packet - IP Address |
+| 2     |  **Data-link**   | Switch, Bridge - Frame - MAC Address |
+| 1     |   **Physical**   |                    Cable, Hub - Bits |
