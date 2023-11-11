@@ -4,14 +4,14 @@ A manipulation technique that expoits human error to gain private information, a
 
 ## Stages
 
-1. Prepare
+1. **Prepare**
    - Attackers gather information about their target
-2. Establish trust
+2. **Establish trust**
    - Often refers to pretexting
    - Attacker use the information they gathered to open a line of communication
-3. Persuasion
+3. **Persuasion**
    - Attacker manipulates their target into volunteering information
-4. Disconnect
+4. **Disconnect**
    - After they collect the information they want, attackers break communication with their target
 
 ## Prevent
@@ -25,15 +25,15 @@ A manipulation technique that expoits human error to gain private information, a
 
 ## Common types
 
-- Baiting
+- **Baiting**
   - Tempts people into compromisiing their security
   - USB baiting
-- [Phishing](#phishing)
-- Quid pro quo
+- [**Phishing**](#phishing)
+- **Quid pro quo**
   - Type of baiting used to trick someone into believing that they'll be rewarded in return for sharing access, information, or money
-- Tailgating
+- **Tailgating**
   - When unauthorized people to follow an authorized person into a restricted area
-- Watering hole
+- **Watering hole**
   - Type of attack when a threat actor compromises a website frequently visited by a specific group of users
 
 ## Phishing
@@ -56,7 +56,7 @@ A Collection of software tools needed to launch a phishing pampaign
 - Fraudulent web links
   - Hyperlinks that open to malicious web pages that are designed to look like trusted brands but built to steal information
 
-### Forms
+### Forms of phishing
 
 - Email
   - Most common form used
